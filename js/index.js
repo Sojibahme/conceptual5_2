@@ -9,7 +9,11 @@
 // function showError(Id){
 //     document.getElementById(Id).classList.remove("hidden");
 // }
-
+// format currency
+// function formnatCurrency(amount){
+//     return `${amount.toFixed(2)}`;
+// }
+// <p class="text-xs text-gray-500">Income:$${formnatCurrency(income)}</p>
 
 
 
